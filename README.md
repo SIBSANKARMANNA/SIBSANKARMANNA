@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm passionate about software development and cons
 - Completed Google AI Essentials course on Coursera.
 - Contributed to multiple open-source projects on GitHub.
 - Built a weather update application (check it out [here](https://github.com/SIBSANKARMANNA/weather-update-application)).
-- Built a AI Functional web application (check it out [here] (https://github.com/SIBSANKARMANNA/AI-application)).
+- Built a AI Functional web application (check it out [here](https://github.com/SIBSANKARMANNA/AI-application)).
 
 ## 📈 GitHub Stats
 
