@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm SIBSANKAR MANNA! 👋
 
-<!--
-**SIBSANKARMANNA/SIBSANKARMANNA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about software development and constantly learning new technologies. Here's a little more about me.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on personal projects and learning full-stack development.
+- 🌱 I’m currently learning React.js, Node.js, and backend development with Express.js and MongoDB.
+- 👯 I’m looking to collaborate on open-source projects.
+- 💬 Ask me about web development, programming, or tech in general!
+- 📫 How to reach me: manna.sibsankar8@gmail.com
+
+## 🛠 Skills
+
+### Frontend:
+- HTML, CSS, JavaScript
+- React.js, Redux
+
+### Backend:
+- Node.js, Express.js
+- MongoDB, Mysql
+
+### Tools & Technologies:
+- GitHub, Render
+- Postman, VSCode, Figma
+
+## 🎓 Education
+
+- **Bachelor of Technology in Computer Science**  
+  Maulana Abdul Kalam Azad University (Graduated in 2024)
+
+## 🏆 Achievements
+
+- Completed Google AI Essentials course on Coursera.
+- Contributed to multiple open-source projects on GitHub.
+- Built a weather update application (check it out [here](https://github.com/SIBSANKARMANNA/weather-update-application)).
+- Built a AI Functional web application (check it out [here] (https://github.com/SIBSANKARMANNA/AI-application)).
+
+## 📈 GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sibsankarmanna&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+## 🔗 Connect with Me
+
+[LinkedIn](www.linkedin.com/in/sibsankarmanna82973b1a2)  
+
+
+## 💬 Fun Fact
+
+I love solving algorithmic challenges and contributing to the open-source community! 🎉
