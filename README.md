@@ -32,6 +32,10 @@ Welcome to my GitHub profile! I'm passionate about software development and cons
 ## 🏆 Achievements
 
 - Completed Google AI Essentials course on Coursera.
+- Completed Node.js & MongoDB:Developing Back-end Database Applications on Coursera.
+- Completed Developing Back-End Apps with Node.js and Express Coursera.
+- Completed Introduction to Cloud Computing Coursera.
+- Completed Developing Front-End Apps with React Coursera.
 - Contributed to multiple open-source projects on GitHub.
 - Built a weather update application (check it out [here](https://github.com/SIBSANKARMANNA/weather-update-application)).
 - Built a AI Functional web application (check it out [here](https://github.com/SIBSANKARMANNA/AI-application)).
