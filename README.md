@@ -15,10 +15,12 @@ Welcome to my GitHub profile! I'm passionate about software development and cons
 ### Frontend:
 - HTML, CSS, JavaScript
 - React.js, Redux
+- Angular
 
 ### Backend:
 - Node.js, Express.js
 - MongoDB, Mysql
+- Django
 
 ### Tools & Technologies:
 - GitHub, Render
@@ -26,8 +28,12 @@ Welcome to my GitHub profile! I'm passionate about software development and cons
 
 ## 🎓 Education
 
-- **Bachelor of Technology in Computer Science**  
+- **Bachelor of Technology in Computer Science**
+- University
   Maulana Abdul Kalam Azad University (Graduated in 2024)
+-College
+  Netaji Subhash Engineering College
+  
 
 ## 🏆 Achievements
 
