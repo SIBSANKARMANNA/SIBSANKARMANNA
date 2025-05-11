@@ -23,8 +23,9 @@ Welcome to my GitHub profile! I'm passionate about software development and cons
 - Django
 
 ### Tools & Technologies:
-- GitHub, Render
+- GitHub, Render,Netlify
 - Postman, VSCode, Figma
+- python,java
 
 ## 🎓 Education
 
