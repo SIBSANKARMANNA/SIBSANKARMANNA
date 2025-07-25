@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm passionate about software development and cons
 ### Backend:
 - Node.js, Express.js
 - MongoDB, Mysql
-- Django
+- SpringBoot
 
 ### Tools & Technologies:
 - GitHub, Render,Netlify
