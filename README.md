@@ -51,24 +51,14 @@ Contributed to building REST APIs and integrating frontend-backend communication
 ### 💻 Featured Projects
 
 AI Functional Web App — GenAI-powered chatbot with OpenAI API integration
-🔗 GitHub Repo
- | 🌐 Live Demo
 
 Weather Update Application — Real-time weather data using OpenWeather API
+
+E-Commerce Store (MERN) — Product filtering, cart management
 🔗 GitHub Repo
  | 🌐 Live Demo
 
-Job Scheduler App — Task automation using Node-Cron & JWT Authentication
-🔗 GitHub Repo
- | 🌐 Live Demo
-
-E-Commerce Store (MERN) — Product filtering, cart management, and payment gateway integration
-🔗 GitHub Repo
- | 🌐 Live Demo
-
-Real-time Chat App — WebSocket + JWT + MongoDB for user-based communication
-🔗 GitHub Repo
- | 🌐 Live Demo
+Real-time Chat App — WebSocket  for user-based communication
 
 ### 📈 DSA & Coding
 
