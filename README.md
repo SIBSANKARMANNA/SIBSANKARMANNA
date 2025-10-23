@@ -1,51 +1,96 @@
-# Hi, I'm SIBSANKAR MANNA! 👋
+## 👋 Hi, I'm Sibsankar Manna
 
-Welcome to my GitHub profile! I'm passionate about software development and constantly learning new technologies. Here's a little more about me.
+Passionate Full Stack Developer | MERN + Java Spring Boot | Building impactful digital solutions
 
-## 👨‍💻 About Me
+###🧑‍💻 About Me
 
-- 🔭 I’m currently working on personal projects and learning full-stack development.
-- 🌱 I’m currently learning React.js, Node.js, and backend development with Express.js and MongoDB.
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about web development, programming, or tech in general!
-- 📫 How to reach me: manna.sibsankar8@gmail.com
+🌱 Currently advancing my skills in Full Stack Development (React.js, Node.js, Express, MongoDB)
+🚀 Exploring Generative AI, System Design, and Docker deployments
+💬 Ask me about Web Development, REST APIs, or DSA problem-solving
+📫 Reach me at manna.sibsankar8@gmail.com
 
-## 🛠 Skills
+📍 Based in India | Open to Remote / On-site Roles
 
-### Frontend:
-- HTML, CSS, JavaScript
-- React.js, Redux
-- Angular
+###🛠️ Tech Stack
 
-### Backend:
-- Node.js, Express.js
-- MongoDB, Mysql
-- SpringBoot
+Frontend:
+React.js, Redux Toolkit, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3
 
-### Tools & Technologies:
-- GitHub, Render,Netlify
-- Postman, VSCode, Figma
-- python,java
+Backend:
+Node.js, Express.js, MongoDB, MySQL, REST APIs, JWT, Auth0, Spring Boot, JPA, Hibernate
 
-## 🎓 Education
+Tools & Platforms:
+Docker, GitHub, Postman, Render, Netlify, VSCode, Figma, Node-Cron
 
-- **Bachelor of Technology in Computer Science**
-- University
-  Maulana Abdul Kalam Azad University (Graduated in 2024)
--College
-  Netaji Subhash Engineering College
-  
+Programming Languages:
+Java, Python
 
-## 🏆 Achievements
+###🏆 Achievements & Certifications
 
-- Completed Google AI Essentials course on Coursera.
-- Completed Node.js & MongoDB:Developing Back-end Database Applications on Coursera.
-- Completed Developing Back-End Apps with Node.js and Express Coursera.
-- Completed Introduction to Cloud Computing Coursera.
-- Completed Developing Front-End Apps with React Coursera.
-- Contributed to multiple open-source projects on GitHub.
-- Built a weather update application (check it out [here](https://github.com/SIBSANKARMANNA/weather-update-application)).
-- Built a AI Functional web application (check it out [here](https://github.com/SIBSANKARMANNA/AI-application)).
+🎓 B.Tech in Computer Science (2024)
+Maulana Abul Kalam Azad University of Technology, Kolkata (Netaji Subhash Engineering College)
+
+🎖️ Certifications (Coursera & Google):
+
+Google AI Essentials
+
+Developing Backend Apps with Node.js & Express
+
+Developing Frontend Apps with React
+
+Introduction to Cloud Computing
+
+Node.js & MongoDB: Developing Back-End Database Applications
+
+###💼 Internships
+
+Remote Full Stack Developer Intern — 1 Month
+
+Contributed to building REST APIs and integrating frontend-backend communication.
+
+Backend Developer Intern — 1 Month
+
+Worked on CRUD operations, authentication, and database management using MongoDB and Express.js.
+
+###💻 Featured Projects
+
+AI Functional Web App — GenAI-powered chatbot with OpenAI API integration
+🔗 GitHub Repo
+ | 🌐 Live Demo
+
+Weather Update Application — Real-time weather data using OpenWeather API
+🔗 GitHub Repo
+ | 🌐 Live Demo
+
+Job Scheduler App — Task automation using Node-Cron & JWT Authentication
+🔗 GitHub Repo
+ | 🌐 Live Demo
+
+E-Commerce Store (MERN) — Product filtering, cart management, and payment gateway integration
+🔗 GitHub Repo
+ | 🌐 Live Demo
+
+Real-time Chat App — WebSocket + JWT + MongoDB for user-based communication
+🔗 GitHub Repo
+ | 🌐 Live Demo
+
+###📈 DSA & Coding
+
+🧠 Solved 800+ problems on LeetCode
+ and GeeksforGeeks
+
+Focused on Arrays, Trees, Graphs, and Dynamic Programming.
+
+🎯 Currently Learning at Crio.do
+
+📚 Enrolled in Crio.do Advanced Software Engineering Program (GenAI Track)
+🛠️ Working on capstone projects integrating Fullstack + Generative AI technologies.
+
+###🤝 Connect with Me
+
+💼 LinkedIn
+ | 📧 Email
+ | 💻 GitHub
 
 ## 📈 GitHub Stats
 
