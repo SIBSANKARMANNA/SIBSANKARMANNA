@@ -2,7 +2,7 @@
 
 Passionate Full Stack Developer | MERN + Java Spring Boot | Building impactful digital solutions
 
-###🧑‍💻 About Me
+### 🧑‍💻 About Me
 
 🌱 Currently advancing my skills in Full Stack Development (React.js, Node.js, Express, MongoDB)
 🚀 Exploring Generative AI, System Design, and Docker deployments
@@ -11,7 +11,7 @@ Passionate Full Stack Developer | MERN + Java Spring Boot | Building impactful d
 
 📍 Based in India | Open to Remote / On-site Roles
 
-###🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 Frontend:
 React.js, Redux Toolkit, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3
@@ -25,7 +25,7 @@ Docker, GitHub, Postman, Render, Netlify, VSCode, Figma, Node-Cron
 Programming Languages:
 Java, Python
 
-###🏆 Achievements & Certifications
+### 🏆 Achievements & Certifications
 
 🎓 B.Tech in Computer Science (2024)
 Maulana Abul Kalam Azad University of Technology, Kolkata (Netaji Subhash Engineering College)
@@ -42,17 +42,13 @@ Introduction to Cloud Computing
 
 Node.js & MongoDB: Developing Back-End Database Applications
 
-###💼 Internships
+### 💼 Internships
 
 Remote Full Stack Developer Intern — 1 Month
 
-Contributed to building REST APIs and integrating frontend-backend communication.
+Contributed to building REST APIs and integrating frontend-backend communication.Worked on CRUD operations, authentication, and database management using MongoDB and Express.js.
 
-Backend Developer Intern — 1 Month
-
-Worked on CRUD operations, authentication, and database management using MongoDB and Express.js.
-
-###💻 Featured Projects
+### 💻 Featured Projects
 
 AI Functional Web App — GenAI-powered chatbot with OpenAI API integration
 🔗 GitHub Repo
@@ -74,7 +70,7 @@ Real-time Chat App — WebSocket + JWT + MongoDB for user-based communication
 🔗 GitHub Repo
  | 🌐 Live Demo
 
-###📈 DSA & Coding
+### 📈 DSA & Coding
 
 🧠 Solved 800+ problems on LeetCode
  and GeeksforGeeks
@@ -86,11 +82,6 @@ Focused on Arrays, Trees, Graphs, and Dynamic Programming.
 📚 Enrolled in Crio.do Advanced Software Engineering Program (GenAI Track)
 🛠️ Working on capstone projects integrating Fullstack + Generative AI technologies.
 
-###🤝 Connect with Me
-
-💼 LinkedIn
- | 📧 Email
- | 💻 GitHub
 
 ## 📈 GitHub Stats
 
